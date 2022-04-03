@@ -1,0 +1,18 @@
+*{
+    margin: 1cm 1cm 1cm 1cm;
+}
+.cont{
+    border: solid 3px rgb(16, 180, 16);   
+    padding: 1px;
+}
+h1{
+    text-align: center;
+}
+.content{
+    border: solid 5px rgb(121, 11, 11);
+    padding: 100px 30px 3px 30px;
+}
+.main{
+    border: solid 3px blue;
+    padding: 30px 3px 30px 100px;
+}
